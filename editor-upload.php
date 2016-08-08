@@ -1,7 +1,7 @@
-<?php 
+<?php
 if(empty($_FILES['file']))
 {
-	exit();	
+	exit();
 }
 $errorImgFile = "./img/img_upload_error.jpg";
 $destinationFilePath = './img-uploads/'.$_FILES['file']['name'];
@@ -11,5 +11,4 @@ if(!move_uploaded_file($_FILES['file']['tmp_name'], $destinationFilePath)){
 else{
 	echo $destinationFilePath;
 }
-
 ?>
