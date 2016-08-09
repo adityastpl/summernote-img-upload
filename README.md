@@ -3,6 +3,8 @@ Improvements are always welcome. GitHub pull requests are even better!
 
 Inspired by https://github.com/pherdee/summernote-img-upload
 
+See demo : https://yadavaditya0.github.io/summernote-img-upload/
+
 # summernote-img-upload
 Modified summernote wysiwyg editor to upload images to filesystem and display in the editor.
 
