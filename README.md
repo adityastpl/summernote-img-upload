@@ -1,4 +1,4 @@
-# summernote-img-upload updated for summernote 0.8.1
+# summernote-img-upload updated for Summernote 0.8.18
 Improvements are always welcome. GitHub pull requests are even better!
 
 Inspired by https://github.com/pherdee/summernote-img-upload
